@@ -1,0 +1,6 @@
+C:\Users\Wiktor\RiderProjects\Wiktor_Kalkulator\Wiktor_Kalkulator\obj\Debug\Wiktor_Kalkulator.csprojAssemblyReference.cache
+C:\Users\Wiktor\RiderProjects\Wiktor_Kalkulator\Wiktor_Kalkulator\obj\Debug\Wiktor_Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\RiderProjects\Wiktor_Kalkulator\Wiktor_Kalkulator\bin\Debug\Wiktor_Kalkulator.exe
+C:\Users\Wiktor\RiderProjects\Wiktor_Kalkulator\Wiktor_Kalkulator\bin\Debug\Wiktor_Kalkulator.pdb
+C:\Users\Wiktor\RiderProjects\Wiktor_Kalkulator\Wiktor_Kalkulator\obj\Debug\Wiktor_Kalkulator.exe
+C:\Users\Wiktor\RiderProjects\Wiktor_Kalkulator\Wiktor_Kalkulator\obj\Debug\Wiktor_Kalkulator.pdb

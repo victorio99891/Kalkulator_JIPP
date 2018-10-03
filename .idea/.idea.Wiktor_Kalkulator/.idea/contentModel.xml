@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Wiktor\.Rider2018.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Wiktor\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Wiktor\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Wiktor_Kalkulator.-1127872719.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Wiktor\RiderProjects\Wiktor_Kalkulator" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Wiktor_Kalkulator" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="pl.wwsi.wiktor.main" t="Include">
+          <e p="Calculator.cs" t="Include" />
+          <e p="FileCreator.cs" t="Include" />
+          <e p="Menu.cs" t="Include" />
+          <e p="Printer.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="RandomNumbersAndSign.cs" t="Include" />
+          <e p="UserNumberAndSign.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Wiktor_Kalkulator.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Wiktor_Kalkulator.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
