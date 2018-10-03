@@ -48,8 +48,17 @@ namespace Wiktor_Kalkulator {
 
         public string calculateFromUserInput(UserNumberAndSign userController, Printer printer) {
             int numberOne = userController.getNumberFromUser();
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("-->> CORRECT <<--");
+            Console.ResetColor();
             string sign = userController.getSignFromUser();
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("-->> CORRECT <<--");
+            Console.ResetColor();
             int numberTwo = userController.getNumberFromUser();
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("-->> CORRECT <<--");
+            Console.ResetColor();
             string result = calculate(numberOne, numberTwo, sign);
             Console.WriteLine();
             printer.printResult(result);
