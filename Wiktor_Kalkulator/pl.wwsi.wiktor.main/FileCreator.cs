@@ -1,5 +1,6 @@
 using System;
 using System.Diagnostics;
+using System.IO;
 
 namespace Wiktor_Kalkulator {
     public class FileCreator {
@@ -25,6 +26,10 @@ namespace Wiktor_Kalkulator {
             }
 
             Console.ResetColor();
+        }
+
+        public void clearFileContext() {
+            File.WriteAllText(@"results.txt", String.Empty);
         }
     }
 }

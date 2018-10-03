@@ -8,6 +8,7 @@ namespace Wiktor_Kalkulator {
             Console.WriteLine("1 - Make calculations");
             Console.WriteLine("2 - Generate random calculations");
             Console.WriteLine("3 - Load results file (history of all calculations)");
+            Console.WriteLine("4 - Clear history of all calculations");
             Console.WriteLine("9 - Exit application");
         }
 

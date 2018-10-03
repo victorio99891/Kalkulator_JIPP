@@ -43,6 +43,15 @@ namespace Wiktor_Kalkulator {
                     Console.ReadKey();
                     start();
                     break;
+                case 4:
+                    fileCreator.clearFileContext();
+                    Console.ForegroundColor = ConsoleColor.Magenta;
+                    Console.WriteLine("Your file is successfully cleared!");
+                    Console.ResetColor();
+                    Console.WriteLine("\nPress any key to continue...");
+                    Console.ReadKey();
+                    start();
+                    break;
                 case 9:
                     Environment.Exit(0);
                     break;
