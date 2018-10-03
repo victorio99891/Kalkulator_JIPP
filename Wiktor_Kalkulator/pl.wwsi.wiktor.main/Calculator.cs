@@ -24,8 +24,8 @@ namespace Wiktor_Kalkulator {
                     break;
                 case "/":
                     if (b == 0) {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        return "Dividing by zero is forbidden!";
+                        /*Console.ForegroundColor = ConsoleColor.Red;
+                        return "Dividing by zero is forbidden!";*/
                     }
 
                     tmp = (double) a / b;
@@ -56,6 +56,15 @@ namespace Wiktor_Kalkulator {
             Console.WriteLine("-->> CORRECT <<--");
             Console.ResetColor();
             int numberTwo = userController.getNumberFromUser();
+            if (numberTwo.Equals(0) && sign.Equals("/")) {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Dividing by zero is forbidden!\n");
+                Console.ResetColor();
+                Console.WriteLine("Press any key to continue...");
+                Console.ReadKey();
+                Program.start();
+            }
+
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("-->> CORRECT <<--");
             Console.ResetColor();
