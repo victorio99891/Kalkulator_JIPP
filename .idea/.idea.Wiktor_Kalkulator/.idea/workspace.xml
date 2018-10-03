@@ -4,7 +4,14 @@
     <bookmark url="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Menu.cs" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5bd426f-6f96-459b-a6e6-038d5dfa26c3" name="Default Changelist" comment="" />
+    <list default="true" id="d5bd426f-6f96-459b-a6e6-038d5dfa26c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Wiktor_Kalkulator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Wiktor_Kalkulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Wiktor_Kalkulator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Menu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Menu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/RandomNumbersAndSign.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/RandomNumbersAndSign.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/UserNumberAndSign.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/UserNumberAndSign.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,30 +40,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="5470" />
+          <entry key="cs" value="5474" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="5470" />
+          <entry key="C#" value="5474" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+            <state relative-caret-position="240">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <marker date="1538525933128" expanded="true" signature="43:2267" ph="{...}" />
-                <marker date="1538525933128" expanded="true" signature="72:2265" ph="{...}" />
-                <marker date="1538525933128" expanded="true" signature="526:648" ph="{...}" />
-                <marker date="1538525933128" expanded="true" signature="686:2259" ph="{...}" />
-                <marker date="1538525933128" expanded="true" signature="768:2249" ph="{...}" />
-                <marker date="1538525933128" expanded="true" signature="1313:1550" ph="{...}" />
+                <marker date="1538526221706" expanded="true" signature="43:2235" ph="{...}" />
+                <marker date="1538526221706" expanded="true" signature="72:2233" ph="{...}" />
+                <marker date="1538526221706" expanded="true" signature="526:616" ph="{...}" />
+                <marker date="1538526221706" expanded="true" signature="654:2227" ph="{...}" />
+                <marker date="1538526221706" expanded="true" signature="736:2217" ph="{...}" />
+                <marker date="1538526221706" expanded="true" signature="1281:1518" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -65,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/FileCreator.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+            <state relative-caret-position="336">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding>
                 <marker date="1538524884182" expanded="true" signature="6:39" ph="..." />
                 <marker date="1538524884182" expanded="true" signature="69:1037" ph="{...}" />
@@ -83,19 +90,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Menu.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="-200">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
               <folding>
-                <marker date="1538525039661" expanded="true" signature="43:2762" ph="{...}" />
-                <marker date="1538525039661" expanded="true" signature="67:2760" ph="{...}" />
-                <marker date="1538525039661" expanded="true" signature="101:512" ph="{...}" />
-                <marker date="1538525039661" expanded="true" signature="548:1123" ph="{...}" />
-                <marker date="1538525039661" expanded="true" signature="753:1076" ph="{...}" />
-                <marker date="1538525039661" expanded="true" signature="1163:1717" ph="{...}" />
-                <marker date="1538525039661" expanded="true" signature="1343:1670" ph="{...}" />
-                <marker date="1538525039661" expanded="true" signature="1800:2480" ph="{...}" />
-                <marker date="1538525039661" expanded="true" signature="1881:2470" ph="{...}" />
-                <marker date="1538525039661" expanded="true" signature="2526:2754" ph="{...}" />
+                <marker date="1538526262128" expanded="true" signature="43:2762" ph="{...}" />
+                <marker date="1538526262128" expanded="true" signature="67:2760" ph="{...}" />
+                <marker date="1538526262128" expanded="true" signature="101:512" ph="{...}" />
+                <marker date="1538526262128" expanded="true" signature="558:786" ph="{...}" />
+                <marker date="1538526262128" expanded="true" signature="822:1397" ph="{...}" />
+                <marker date="1538526262128" expanded="true" signature="1027:1350" ph="{...}" />
+                <marker date="1538526262128" expanded="true" signature="1437:1991" ph="{...}" />
+                <marker date="1538526262128" expanded="true" signature="1617:1944" ph="{...}" />
+                <marker date="1538526262128" expanded="true" signature="2074:2754" ph="{...}" />
+                <marker date="1538526262128" expanded="true" signature="2155:2744" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -104,17 +111,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/UserNumberAndSign.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="168">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
               <folding>
-                <marker date="1538520355066" expanded="false" signature="6:32" ph="..." />
-                <marker date="1538520355066" expanded="true" signature="62:1675" ph="{...}" />
-                <marker date="1538520355066" expanded="true" signature="99:1673" ph="{...}" />
-                <marker date="1538520355066" expanded="true" signature="140:801" ph="{...}" />
-                <marker date="1538520355066" expanded="true" signature="527:758" ph="{...}" />
-                <marker date="1538520355066" expanded="true" signature="843:1667" ph="{...}" />
-                <marker date="1538520355066" expanded="true" signature="1302:1624" ph="{...}" />
-                <marker date="1538520355066" expanded="true" signature="1365:1610" ph="{...}" />
+                <marker date="1538526279570" expanded="false" signature="6:32" ph="..." />
+                <marker date="1538526279570" expanded="true" signature="62:1674" ph="{...}" />
+                <marker date="1538526279570" expanded="true" signature="99:1672" ph="{...}" />
+                <marker date="1538526279570" expanded="true" signature="140:800" ph="{...}" />
+                <marker date="1538526279570" expanded="true" signature="526:757" ph="{...}" />
+                <marker date="1538526279570" expanded="true" signature="842:1666" ph="{...}" />
+                <marker date="1538526279570" expanded="true" signature="1301:1623" ph="{...}" />
+                <marker date="1538526279570" expanded="true" signature="1364:1609" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -123,18 +130,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/RandomNumbersAndSign.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+            <state relative-caret-position="192">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <marker date="1538525450802" expanded="true" signature="43:1368" ph="{...}" />
-                <marker date="1538525450802" expanded="true" signature="83:1366" ph="{...}" />
-                <marker date="1538525450802" expanded="true" signature="268:279" ph="{...}" />
-                <marker date="1538525450802" expanded="true" signature="346:831" ph="{...}" />
-                <marker date="1538525450802" expanded="true" signature="727:794" ph="{...}" />
-                <marker date="1538525450802" expanded="true" signature="879:1008" ph="{...}" />
-                <marker date="1538525450802" expanded="true" signature="1060:1151" ph="{...}" />
-                <marker date="1538525450802" expanded="true" signature="1182:1257" ph="{...}" />
-                <marker date="1538525450802" expanded="true" signature="1289:1360" ph="{...}" />
+                <marker date="1538526314886" expanded="true" signature="43:1316" ph="{...}" />
+                <marker date="1538526314886" expanded="true" signature="83:1314" ph="{...}" />
+                <marker date="1538526314886" expanded="true" signature="294:779" ph="{...}" />
+                <marker date="1538526314886" expanded="true" signature="675:742" ph="{...}" />
+                <marker date="1538526314886" expanded="true" signature="827:956" ph="{...}" />
+                <marker date="1538526314886" expanded="true" signature="1008:1099" ph="{...}" />
+                <marker date="1538526314886" expanded="true" signature="1130:1205" ph="{...}" />
+                <marker date="1538526314886" expanded="true" signature="1237:1308" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -143,7 +149,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Printer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
+            <state relative-caret-position="552">
               <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
               <folding>
                 <marker date="1538525893597" expanded="true" signature="43:1157" ph="{...}" />
@@ -160,10 +166,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Calculator.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
+            <state relative-caret-position="1344">
               <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
               <folding>
                 <marker date="1538523571884" expanded="true" signature="43:2471" ph="{...}" />
@@ -183,6 +189,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Calculator.cs" root0="FORCE_HIGHLIGHTING" />
@@ -196,13 +205,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Kalkulator.cs" />
-        <option value="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/UserNumberAndSign.cs" />
         <option value="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Calculator.cs" />
-        <option value="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/FileCreator.cs" />
-        <option value="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Menu.cs" />
-        <option value="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/RandomNumbersAndSign.cs" />
         <option value="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Printer.cs" />
+        <option value="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/FileCreator.cs" />
         <option value="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Program.cs" />
+        <option value="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Menu.cs" />
+        <option value="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/UserNumberAndSign.cs" />
+        <option value="$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/RandomNumbersAndSign.cs" />
       </list>
     </option>
   </component>
@@ -218,6 +227,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -298,12 +308,12 @@
       <option name="presentableId" value="Default" />
       <updated>1538488460196</updated>
       <workItem from="1538488461360" duration="8341000" />
-      <workItem from="1538517076180" duration="8382000" />
+      <workItem from="1538517076180" duration="8767000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16723000" />
+    <option name="totallyTimeSpent" value="17108000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -318,12 +328,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32930845" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32930845" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39956093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,83 +399,25 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Menu.cs">
+    <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <marker date="1538525039661" expanded="true" signature="43:2762" ph="{...}" />
-            <marker date="1538525039661" expanded="true" signature="67:2760" ph="{...}" />
-            <marker date="1538525039661" expanded="true" signature="101:512" ph="{...}" />
-            <marker date="1538525039661" expanded="true" signature="548:1123" ph="{...}" />
-            <marker date="1538525039661" expanded="true" signature="753:1076" ph="{...}" />
-            <marker date="1538525039661" expanded="true" signature="1163:1717" ph="{...}" />
-            <marker date="1538525039661" expanded="true" signature="1343:1670" ph="{...}" />
-            <marker date="1538525039661" expanded="true" signature="1800:2480" ph="{...}" />
-            <marker date="1538525039661" expanded="true" signature="1881:2470" ph="{...}" />
-            <marker date="1538525039661" expanded="true" signature="2526:2754" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/UserNumberAndSign.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <marker date="1538520355066" expanded="false" signature="6:32" ph="..." />
-            <marker date="1538520355066" expanded="true" signature="62:1675" ph="{...}" />
-            <marker date="1538520355066" expanded="true" signature="99:1673" ph="{...}" />
-            <marker date="1538520355066" expanded="true" signature="140:801" ph="{...}" />
-            <marker date="1538520355066" expanded="true" signature="527:758" ph="{...}" />
-            <marker date="1538520355066" expanded="true" signature="843:1667" ph="{...}" />
-            <marker date="1538520355066" expanded="true" signature="1302:1624" ph="{...}" />
-            <marker date="1538520355066" expanded="true" signature="1365:1610" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/RandomNumbersAndSign.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-          <folding>
-            <marker date="1538525450802" expanded="true" signature="43:1368" ph="{...}" />
-            <marker date="1538525450802" expanded="true" signature="83:1366" ph="{...}" />
-            <marker date="1538525450802" expanded="true" signature="268:279" ph="{...}" />
-            <marker date="1538525450802" expanded="true" signature="346:831" ph="{...}" />
-            <marker date="1538525450802" expanded="true" signature="727:794" ph="{...}" />
-            <marker date="1538525450802" expanded="true" signature="879:1008" ph="{...}" />
-            <marker date="1538525450802" expanded="true" signature="1060:1151" ph="{...}" />
-            <marker date="1538525450802" expanded="true" signature="1182:1257" ph="{...}" />
-            <marker date="1538525450802" expanded="true" signature="1289:1360" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Calculator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
-          <folding>
-            <marker date="1538523571884" expanded="true" signature="43:2471" ph="{...}" />
-            <marker date="1538523571884" expanded="true" signature="73:2469" ph="{...}" />
-            <marker date="1538523571884" expanded="true" signature="242:1453" ph="{...}" />
-            <marker date="1538523571884" expanded="true" signature="385:1387" ph="{...}" />
-            <marker date="1538523571884" expanded="true" signature="712:868" ph="{...}" />
-            <marker date="1538523571884" expanded="true" signature="1551:1951" ph="{...}" />
-            <marker date="1538523571884" expanded="true" signature="2035:2105" ph="{...}" />
-            <marker date="1538523571884" expanded="true" signature="2140:2221" ph="{...}" />
-            <marker date="1538523571884" expanded="true" signature="2255:2336" ph="{...}" />
-            <marker date="1538523571884" expanded="true" signature="2374:2463" ph="{...}" />
+            <marker date="1538526221706" expanded="true" signature="43:2235" ph="{...}" />
+            <marker date="1538526221706" expanded="true" signature="72:2233" ph="{...}" />
+            <marker date="1538526221706" expanded="true" signature="526:616" ph="{...}" />
+            <marker date="1538526221706" expanded="true" signature="654:2227" ph="{...}" />
+            <marker date="1538526221706" expanded="true" signature="736:2217" ph="{...}" />
+            <marker date="1538526221706" expanded="true" signature="1281:1518" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/FileCreator.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+        <state relative-caret-position="336">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
             <marker date="1538524884182" expanded="true" signature="6:39" ph="..." />
             <marker date="1538524884182" expanded="true" signature="69:1037" ph="{...}" />
@@ -478,9 +430,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <marker date="1538526262128" expanded="true" signature="43:2762" ph="{...}" />
+            <marker date="1538526262128" expanded="true" signature="67:2760" ph="{...}" />
+            <marker date="1538526262128" expanded="true" signature="101:512" ph="{...}" />
+            <marker date="1538526262128" expanded="true" signature="558:786" ph="{...}" />
+            <marker date="1538526262128" expanded="true" signature="822:1397" ph="{...}" />
+            <marker date="1538526262128" expanded="true" signature="1027:1350" ph="{...}" />
+            <marker date="1538526262128" expanded="true" signature="1437:1991" ph="{...}" />
+            <marker date="1538526262128" expanded="true" signature="1617:1944" ph="{...}" />
+            <marker date="1538526262128" expanded="true" signature="2074:2754" ph="{...}" />
+            <marker date="1538526262128" expanded="true" signature="2155:2744" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/UserNumberAndSign.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <marker date="1538526279570" expanded="false" signature="6:32" ph="..." />
+            <marker date="1538526279570" expanded="true" signature="62:1674" ph="{...}" />
+            <marker date="1538526279570" expanded="true" signature="99:1672" ph="{...}" />
+            <marker date="1538526279570" expanded="true" signature="140:800" ph="{...}" />
+            <marker date="1538526279570" expanded="true" signature="526:757" ph="{...}" />
+            <marker date="1538526279570" expanded="true" signature="842:1666" ph="{...}" />
+            <marker date="1538526279570" expanded="true" signature="1301:1623" ph="{...}" />
+            <marker date="1538526279570" expanded="true" signature="1364:1609" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/RandomNumbersAndSign.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1538526314886" expanded="true" signature="43:1316" ph="{...}" />
+            <marker date="1538526314886" expanded="true" signature="83:1314" ph="{...}" />
+            <marker date="1538526314886" expanded="true" signature="294:779" ph="{...}" />
+            <marker date="1538526314886" expanded="true" signature="675:742" ph="{...}" />
+            <marker date="1538526314886" expanded="true" signature="827:956" ph="{...}" />
+            <marker date="1538526314886" expanded="true" signature="1008:1099" ph="{...}" />
+            <marker date="1538526314886" expanded="true" signature="1130:1205" ph="{...}" />
+            <marker date="1538526314886" expanded="true" signature="1237:1308" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Printer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="552">
           <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
           <folding>
             <marker date="1538525893597" expanded="true" signature="43:1157" ph="{...}" />
@@ -496,17 +501,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Program.cs">
+    <entry file="file://$PROJECT_DIR$/Wiktor_Kalkulator/pl.wwsi.wiktor.main/Calculator.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+        <state relative-caret-position="1344">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
           <folding>
-            <marker date="1538525933128" expanded="true" signature="43:2267" ph="{...}" />
-            <marker date="1538525933128" expanded="true" signature="72:2265" ph="{...}" />
-            <marker date="1538525933128" expanded="true" signature="526:648" ph="{...}" />
-            <marker date="1538525933128" expanded="true" signature="686:2259" ph="{...}" />
-            <marker date="1538525933128" expanded="true" signature="768:2249" ph="{...}" />
-            <marker date="1538525933128" expanded="true" signature="1313:1550" ph="{...}" />
+            <marker date="1538523571884" expanded="true" signature="43:2471" ph="{...}" />
+            <marker date="1538523571884" expanded="true" signature="73:2469" ph="{...}" />
+            <marker date="1538523571884" expanded="true" signature="242:1453" ph="{...}" />
+            <marker date="1538523571884" expanded="true" signature="385:1387" ph="{...}" />
+            <marker date="1538523571884" expanded="true" signature="712:868" ph="{...}" />
+            <marker date="1538523571884" expanded="true" signature="1551:1951" ph="{...}" />
+            <marker date="1538523571884" expanded="true" signature="2035:2105" ph="{...}" />
+            <marker date="1538523571884" expanded="true" signature="2140:2221" ph="{...}" />
+            <marker date="1538523571884" expanded="true" signature="2255:2336" ph="{...}" />
+            <marker date="1538523571884" expanded="true" signature="2374:2463" ph="{...}" />
           </folding>
         </state>
       </provider>

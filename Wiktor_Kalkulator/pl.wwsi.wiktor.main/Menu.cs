@@ -11,6 +11,13 @@ namespace Wiktor_Kalkulator {
             Console.WriteLine("9 - Exit application");
         }
 
+        private static void printSaveMenu() {
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("Do you want to save this result into file?");
+            Console.WriteLine("1 - Yes");
+            Console.WriteLine("2 - No");
+        }
+
         public int getMenuInput() {
             Console.Clear();
             printMenu();
@@ -63,13 +70,6 @@ namespace Wiktor_Kalkulator {
                     proposeSaveResultOption(result, creator);
                     break;
             }
-        }
-
-        private static void printSaveMenu() {
-            Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("Do you want to save this result into file?");
-            Console.WriteLine("1 - Yes");
-            Console.WriteLine("2 - No");
         }
     }
 }

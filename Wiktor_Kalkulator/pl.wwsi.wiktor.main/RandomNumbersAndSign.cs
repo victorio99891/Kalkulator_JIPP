@@ -7,10 +7,6 @@ namespace Wiktor_Kalkulator {
         private int[] numbers;
         private string[] signs = {"+", "-", "*", "/", "%", "^"};
 
-
-        public RandomNumbersAndSign() {
-        }
-
         public void createRandomListInRange(int start, int stop) {
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Green;

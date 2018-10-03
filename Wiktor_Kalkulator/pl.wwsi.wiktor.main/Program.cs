@@ -12,8 +12,6 @@ namespace Wiktor_Kalkulator {
         public static void Main(string[] args) {
             Console.BackgroundColor = ConsoleColor.Black;
             start();
-
-            Console.ReadKey();
         }
 
 

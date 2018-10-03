@@ -7,7 +7,6 @@ namespace Wiktor_Kalkulator {
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Type integer number:");
             Console.ResetColor();
-
             Console.ForegroundColor = ConsoleColor.Green;
             string inputString = Console.ReadLine();
             Console.ResetColor();
