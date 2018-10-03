@@ -14,7 +14,6 @@ namespace Wiktor_Kalkulator {
             start();
         }
 
-
         public static void start() {
             int userInput = menu.getMenuInput();
             switch (userInput) {
